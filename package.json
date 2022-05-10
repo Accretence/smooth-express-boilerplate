@@ -12,8 +12,6 @@
 	"scripts": {
 		"start": "node server",
 		"dev": "nodemon server",
-		"data:import": "node seeder",
-		"data:destroy": "node seeder -d",
 		"stop": "taskkill -F -IM node.exe",
 		"update": "npx npm-check-updates -u"
 	},
