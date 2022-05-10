@@ -1,6 +1,6 @@
 # breathtaking-express-template
 
-<img src="https://64.media.tumblr.com/b635a9428478e838d10538192fed911f/dab5c36b11f72d52-4a/s500x750/d0e2a6102c4d24c2a9656bb5c63ee13e33427de4.gifv" width="100%" />
+<img src="https://user-images.githubusercontent.com/45223699/167655509-14c96314-cfe3-4338-ac5d-4e32741c5275.gif" width="100%" />
 
 Hey! 👋 This will be your best resource to bootstrap an Express.js API. All of the direct dependencies use their latest available version and the architecture is clean and easy to extend. Have fun BUIDLing! 🤙
 
