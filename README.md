@@ -1,8 +1,8 @@
 # breathtaking-express-template
 
-![Lisa](https://media1.giphy.com/media/3orif0X0NtXPresE24/giphy.gif?cid=790b7611511e3a52eeb29a669a8654b57decdaa6cbadc7d4&rid=giphy.gif&ct=g)
+<img src="https://media3.giphy.com/media/v5xYHQh2y8AiQ/giphy.gif?cid=ecf05e472mzg4akz1ik5asgbbvcuomw8bi8pcgdev6ryuf0s&rid=giphy.gif&ct=g" width="100%" />
 
-This is your best place to start a Express.js project.
+Hey! 👋 This will be your best resource to bootstrap an Express.js API. All of the direct dependencies use their latest available version and the architecture is clean and easy to extend. Have fun BUIDLing! 🤙
 
 ## Usage
 
@@ -10,8 +10,6 @@ This is your best place to start a Express.js project.
 
 ```bash
 git clone https://github.com/Accretence/breathtaking-express-template
-
-cd breathtaking-express-template
 ```
 
 2. Install the dependencies:
